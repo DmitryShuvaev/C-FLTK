@@ -12,3 +12,8 @@ comctl32.lib     <br />
 __________________________________________________________________________________________________________________________________________
 crossword generator<br/>
 <img src="word_generator/id.jpg">
+__________________________________________________________________________________________________________________________________________
+maze Randomized Prim's algorithm<br/>
+Maze generation algorithms <br/>
+C++ program to solve Rat in a Maze problem using backtracking<br/>
+<img src="maze Randomized Prim's algorithm/window.jpg">
