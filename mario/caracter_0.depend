@@ -1,0 +1,399 @@
+# depslib dependency file v1.0
+1565862576 source:c:\users\dmshuvaev\desktop\temp\caracter_18\gem.cpp
+	"Gem.h"
+
+1565864604 c:\users\dmshuvaev\desktop\temp\caracter_18\gem.h
+	"Graph.h"
+	<FL/Fl_PNG_Image.H>
+
+1565860998 c:\users\dmshuvaev\desktop\temp\caracter_18\graph.h
+	<FL/fl_draw.H>
+	<FL/Fl_Image.H>
+	"Point.h"
+	"std_lib_facilities.h"
+
+1551602424 k:\codeblocks\fltk-1.3.5\fl\fl_draw.h
+	<FL/x.H>
+	<FL/Enumerations.H>
+	<FL/Fl_Window.H>
+	<FL/Fl_Device.H>
+
+1551602424 k:\codeblocks\fltk-1.3.5\fl\x.h
+	"Enumerations.H"
+	"win32.H"
+	"mac.H"
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/Xatom.h>
+	"Fl_Window.H"
+
+1551602424 k:\codeblocks\fltk-1.3.5\fl\enumerations.h
+	<FL/abi-version.h>
+	"Fl_Export.H"
+	"fl_types.h"
+
+1554043562 k:\codeblocks\fltk-1.3.5\fl\abi-version.h
+
+1551602424 k:\codeblocks\fltk-1.3.5\fl\fl_export.h
+
+1551602424 k:\codeblocks\fltk-1.3.5\fl\fl_types.h
+
+1551602424 k:\codeblocks\fltk-1.3.5\fl\win32.h
+	<windows.h>
+	<FL/Fl_Window.H>
+
+1551602424 k:\codeblocks\fltk-1.3.5\fl\fl_window.h
+	<windows.h>
+	"Fl_Group.H"
+	"Fl_Bitmap.H"
+	<stdlib.h>
+
+1551602424 k:\codeblocks\fltk-1.3.5\fl\fl_group.h
+	"Fl_Widget.H"
+
+1551602424 k:\codeblocks\fltk-1.3.5\fl\fl_widget.h
+	"Enumerations.H"
+	<stdint.h>
+	<stddef.h>
+
+1551602424 k:\codeblocks\fltk-1.3.5\fl\fl_bitmap.h
+	"Fl_Image.H"
+
+1551602424 k:\codeblocks\fltk-1.3.5\fl\fl_image.h
+	"Enumerations.H"
+	<stdlib.h>
+
+1551602424 k:\codeblocks\fltk-1.3.5\fl\mac.h
+	<FL/Fl_Widget.H>
+	<ApplicationServices/ApplicationServices.h>
+	"Fl_Window.H"
+	"../src/Fl_Font.H"
+
+1551602424 k:\codeblocks\fltk-1.3.5\src\fl_font.h
+	<config.h>
+	"Xutf8.h"
+
+1554043562 k:\codeblocks\fltk-1.3.5\config.h
+	<mac_endianness.h>
+
+1551602424 k:\codeblocks\fltk-1.3.5\mac_endianness.h
+
+1551602424 k:\codeblocks\fltk-1.3.5\src\xutf8.h
+	<X11/X.h>
+	<X11/Xlib.h>
+	<X11/Xlocale.h>
+	<X11/Xutil.h>
+	<FL/Fl_Export.H>
+
+1551602424 k:\codeblocks\fltk-1.3.5\fl\fl_device.h
+	<FL/x.H>
+	<FL/Fl_Plugin.H>
+	<FL/Fl_Image.H>
+	<FL/Fl_Bitmap.H>
+	<FL/Fl_Pixmap.H>
+	<FL/Fl_RGB_Image.H>
+	<stdlib.h>
+
+1551602424 k:\codeblocks\fltk-1.3.5\fl\fl_plugin.h
+	"Fl_Preferences.H"
+
+1551602424 k:\codeblocks\fltk-1.3.5\fl\fl_preferences.h
+	<stdio.h>
+	"Fl_Export.H"
+
+1551602424 k:\codeblocks\fltk-1.3.5\fl\fl_pixmap.h
+	"Fl_Image.H"
+	"x.H"
+
+1551602424 k:\codeblocks\fltk-1.3.5\fl\fl_rgb_image.h
+	"Fl_Image.H"
+
+1233335660 c:\users\dmshuvaev\desktop\temp\caracter_18\point.h
+
+1566362408 c:\users\dmshuvaev\desktop\temp\caracter_18\std_lib_facilities.h
+	<cmath>
+	<cstring>
+	<fstream>
+	<stdexcept>
+	<string>
+	<sstream>
+	<vector>
+
+1551602424 k:\codeblocks\fltk-1.3.5\fl\fl_png_image.h
+	"Fl_Image.H"
+
+1567510345 source:c:\users\dmshuvaev\desktop\temp\caracter_18\gem_obj.cpp
+	"Gem_obj.h"
+
+1567510345 c:\users\dmshuvaev\desktop\temp\caracter_18\gem_obj.h
+	"Graph.h"
+	"Window.h"
+	"Level_Maker.h"
+
+1561999002 c:\users\dmshuvaev\desktop\temp\caracter_18\window.h
+	<FL/fl_draw.H>
+	<string>
+	<vector>
+	<FL/Fl.H>
+	<FL/Fl_Double_Window.H>
+	"Point.h"
+
+1551602424 k:\codeblocks\fltk-1.3.5\fl\fl.h
+	<FL/Fl_Export.H>
+	<FL/Fl_Cairo.H>
+	"fl_utf8.h"
+	"Enumerations.H"
+	<stdio.h>
+	<FL/Fl.H>
+	<FL/Fl_Window.H>
+
+1551602424 k:\codeblocks\fltk-1.3.5\fl\fl_cairo.h
+	<FL/Fl_Export.H>
+	<cairo.h>
+
+1551602424 k:\codeblocks\fltk-1.3.5\fl\fl_utf8.h
+	"Fl_Export.H"
+	"fl_types.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<locale.h>
+	<ctype.h>
+	<wchar.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<X11/Xlocale.h>
+	<X11/Xlib.h>
+	<locale.h>
+
+1551602424 k:\codeblocks\fltk-1.3.5\fl\fl_double_window.h
+	"Fl_Window.H"
+
+1567581069 c:\users\dmshuvaev\desktop\temp\caracter_18\level_maker.h
+	"GUI.h"
+	"Graph.h"
+	<iostream>
+	<time.h>
+	"Point.h"
+	<stdlib.h>
+	<algorithm>
+	<vector>
+	<FL/Fl_PNG_Image.H>
+	<FL/Fl_Shared_Image.H>
+	"Jumping_Box.h"
+
+1560017394 c:\users\dmshuvaev\desktop\temp\caracter_18\gui.h
+	"Window.h"
+	"Graph.h"
+
+1551602424 k:\codeblocks\fltk-1.3.5\fl\fl_shared_image.h
+	"Fl_Image.H"
+
+1566209269 c:\users\dmshuvaev\desktop\temp\caracter_18\jumping_box.h
+	"Gem.h"
+	"Level_Maker.h"
+
+1561925218 source:c:\users\dmshuvaev\desktop\temp\caracter_18\graph.cpp
+	<FL/Fl_GIF_Image.H>
+	<FL/Fl_JPEG_Image.H>
+	<FL/Fl_PNG_Image.H>
+	"Graph.h"
+
+1551602424 k:\codeblocks\fltk-1.3.5\fl\fl_gif_image.h
+	"Fl_Pixmap.H"
+
+1551602424 k:\codeblocks\fltk-1.3.5\fl\fl_jpeg_image.h
+	"Fl_Image.H"
+
+1560018258 source:c:\users\dmshuvaev\desktop\temp\caracter_18\gui.cpp
+	<FL/Fl.H>
+	<FL/Fl_Button.H>
+	<FL/Fl_Round_Button.H>
+	<FL/Fl_Output.H>
+	"GUI.h"
+
+1551602424 k:\codeblocks\fltk-1.3.5\fl\fl_button.h
+	"Fl_Widget.H"
+
+1551602424 k:\codeblocks\fltk-1.3.5\fl\fl_round_button.h
+	"Fl_Light_Button.H"
+
+1551602424 k:\codeblocks\fltk-1.3.5\fl\fl_light_button.h
+	"Fl_Button.H"
+
+1551602424 k:\codeblocks\fltk-1.3.5\fl\fl_output.h
+	"Fl_Input.H"
+
+1551602424 k:\codeblocks\fltk-1.3.5\fl\fl_input.h
+	"Fl_Input_.H"
+
+1551602424 k:\codeblocks\fltk-1.3.5\fl\fl_input_.h
+	"Fl_Widget.H"
+
+1565930546 source:c:\users\dmshuvaev\desktop\temp\caracter_18\jumping_box.cpp
+	"Jumping_Box.h"
+
+1567583767 source:c:\users\dmshuvaev\desktop\temp\caracter_18\level_maker.cpp
+	"Level_Maker.h"
+
+1562059946 source:c:\users\dmshuvaev\desktop\temp\caracter_18\main.cpp
+	"Mane_Window.h"
+
+1566890315 c:\users\dmshuvaev\desktop\temp\caracter_18\mane_window.h
+	"GUI.h"
+	"Graph.h"
+	<iostream>
+	<time.h>
+	"Point.h"
+	<stdlib.h>
+	"Level_Maker.h"
+	"Snail.h"
+	"Gem_obj.h"
+
+1566374685 c:\users\dmshuvaev\desktop\temp\caracter_18\snail.h
+	"Graph.h"
+	"Window.h"
+	"Level_Maker.h"
+
+1568021571 source:c:\users\dmshuvaev\desktop\temp\caracter_18\mane_window.cpp
+	"Mane_Window.h"
+
+1566378467 source:c:\users\dmshuvaev\desktop\temp\caracter_18\snail.cpp
+	"Snail.h"
+	<FL/Fl_PNG_Image.H>
+
+1565595094 source:c:\users\dmshuvaev\desktop\temp\caracter_18\snailmovingstate.cpp
+	"SnailMovingState.h"
+
+1565595234 c:\users\dmshuvaev\desktop\temp\caracter_18\snailmovingstate.h
+	"Graph.h"
+	"Window.h"
+	"Level_Maker.h"
+
+1561998896 source:c:\users\dmshuvaev\desktop\temp\caracter_18\window.cpp
+	"Window.h"
+	"Graph.h"
+	"GUI.h"
+
+1565862576 source:k:\cppf\caracter_18\gem.cpp
+	"Gem.h"
+
+1565864604 k:\cppf\caracter_18\gem.h
+	"Graph.h"
+	<FL/Fl_PNG_Image.H>
+
+1565860998 k:\cppf\caracter_18\graph.h
+	<FL/fl_draw.H>
+	<FL/Fl_Image.H>
+	"Point.h"
+	"std_lib_facilities.h"
+
+1233335660 k:\cppf\caracter_18\point.h
+
+1566362410 k:\cppf\caracter_18\std_lib_facilities.h
+	<cmath>
+	<cstring>
+	<fstream>
+	<stdexcept>
+	<string>
+	<sstream>
+	<vector>
+
+1567510346 source:k:\cppf\caracter_18\gem_obj.cpp
+	"Gem_obj.h"
+
+1567510346 k:\cppf\caracter_18\gem_obj.h
+	"Graph.h"
+	"Window.h"
+	"Level_Maker.h"
+
+1561999002 k:\cppf\caracter_18\window.h
+	<FL/fl_draw.H>
+	<string>
+	<vector>
+	<FL/Fl.H>
+	<FL/Fl_Double_Window.H>
+	"Point.h"
+
+1567581070 k:\cppf\caracter_18\level_maker.h
+	"GUI.h"
+	"Graph.h"
+	<iostream>
+	<time.h>
+	"Point.h"
+	<stdlib.h>
+	<algorithm>
+	<vector>
+	<FL/Fl_PNG_Image.H>
+	<FL/Fl_Shared_Image.H>
+	"Jumping_Box.h"
+
+1560017394 k:\cppf\caracter_18\gui.h
+	"Window.h"
+	"Graph.h"
+
+1566209270 k:\cppf\caracter_18\jumping_box.h
+	"Gem.h"
+	"Level_Maker.h"
+
+1561925218 source:k:\cppf\caracter_18\graph.cpp
+	<FL/Fl_GIF_Image.H>
+	<FL/Fl_JPEG_Image.H>
+	<FL/Fl_PNG_Image.H>
+	"Graph.h"
+
+1560018258 source:k:\cppf\caracter_18\gui.cpp
+	<FL/Fl.H>
+	<FL/Fl_Button.H>
+	<FL/Fl_Round_Button.H>
+	<FL/Fl_Output.H>
+	"GUI.h"
+
+1565930546 source:k:\cppf\caracter_18\jumping_box.cpp
+	"Jumping_Box.h"
+
+1567583768 source:k:\cppf\caracter_18\level_maker.cpp
+	"Level_Maker.h"
+
+1562059946 source:k:\cppf\caracter_18\main.cpp
+	"Mane_Window.h"
+
+1566890316 k:\cppf\caracter_18\mane_window.h
+	"GUI.h"
+	"Graph.h"
+	<iostream>
+	<time.h>
+	"Point.h"
+	<stdlib.h>
+	"Level_Maker.h"
+	"Snail.h"
+	"Gem_obj.h"
+
+1566374686 k:\cppf\caracter_18\snail.h
+	"Graph.h"
+	"Window.h"
+	"Level_Maker.h"
+
+1568021572 source:k:\cppf\caracter_18\mane_window.cpp
+	"Mane_Window.h"
+
+1566378468 source:k:\cppf\caracter_18\snail.cpp
+	"Snail.h"
+	<FL/Fl_PNG_Image.H>
+
+1565595094 source:k:\cppf\caracter_18\snailmovingstate.cpp
+	"SnailMovingState.h"
+
+1565595234 k:\cppf\caracter_18\snailmovingstate.h
+	"Graph.h"
+	"Window.h"
+	"Level_Maker.h"
+
+1561998896 source:k:\cppf\caracter_18\window.cpp
+	"Window.h"
+	"Graph.h"
+	"GUI.h"
+

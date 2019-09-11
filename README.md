@@ -17,3 +17,7 @@ maze Randomized Prim's algorithm<br/>
 Maze generation algorithms <br/>
 C++ program to solve Rat in a Maze problem using backtracking<br/>
 <img src="maze Randomized Prim's algorithm/window.jpg">
+__________________________________________________________________________________________________________________________________________
+mario game <br/>
+Code blocks project <br/>
+<img src="mario/Untitled-2.jpg">
