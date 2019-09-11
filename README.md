@@ -20,4 +20,4 @@ C++ program to solve Rat in a Maze problem using backtracking<br/>
 __________________________________________________________________________________________________________________________________________
 mario game <br/>
 Code blocks project <br/>
-<img src="mario/Untitled-2.jpg">
+<img src="mario/Resources/Untitled-2.jpg">
