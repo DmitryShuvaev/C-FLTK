@@ -47,6 +47,8 @@
 					<Add library="user32" />
 					<Add library="kernel32" />
 					<Add library="fltk_png" />
+					<Add library="fltk_jpeg" />
+					<Add library="fltk_z" />
 				</Linker>
 			</Target>
 		</Build>

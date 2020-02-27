@@ -1,7 +1,7 @@
 #include "Graph.h"
 #include "Simple_window.h"
 #include <FL/Fl_Shared_Image.H>
-#include "Queens.h"
+//#include "Queens.h"
 using namespace Graph_lib;
 void polyf(Graph_lib::Polygon &poly,Simple_window& win){
     poly.add(Point{300,200}); //add point
@@ -111,7 +111,8 @@ void print_board()
 int main()
 {
     Point tl(150,150);
-    //Simple_window win(tl,1024,768,"Mine animation");
-Queens q;
-    //Fl::run();
+    Simple_window win(tl,BOARDSIZE,BOARDSIZE,"8 Queens");
+    win.color(FL_WHITE);
+
+    Fl::run();
 }

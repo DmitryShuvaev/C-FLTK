@@ -7,19 +7,39 @@
 			<Cursor1 position="326" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="Queens.cpp" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="Graph.cpp" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="457" topLine="0" />
+			<Cursor1 position="12437" topLine="414" />
 		</Cursor>
 	</File>
-	<File name="Simple_window.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+	<File name="Queens.cpp" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="425" topLine="0" />
+			<Cursor1 position="454" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Queens.h" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5568" topLine="269" />
+		</Cursor>
+	</File>
+	<File name="Simple_window.cpp" open="1" top="1" tabpos="3" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="993" topLine="30" />
+		</Cursor>
+	</File>
+	<File name="GRAPH.H" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="10695" topLine="350" />
 		</Cursor>
 	</File>
 	<File name="Simple_window.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="307" topLine="0" />
+			<Cursor1 position="326" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2378" topLine="77" />
 		</Cursor>
 	</File>
 	<File name="WINDOW.H" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -27,24 +47,9 @@
 			<Cursor1 position="1607" topLine="27" />
 		</Cursor>
 	</File>
-	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="414" topLine="76" />
-		</Cursor>
-	</File>
 	<File name="std_lib_facilities.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="736" topLine="9" />
-		</Cursor>
-	</File>
-	<File name="Queens.h" open="1" top="1" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="5415" topLine="230" />
-		</Cursor>
-	</File>
-	<File name="GUI.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="2744" topLine="0" />
 		</Cursor>
 	</File>
 	<File name="Window.cpp" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -52,19 +57,14 @@
 			<Cursor1 position="1036" topLine="59" />
 		</Cursor>
 	</File>
-	<File name="GRAPH.H" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="6036" topLine="0" />
-		</Cursor>
-	</File>
 	<File name="GUI.cpp" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="374" topLine="21" />
 		</Cursor>
 	</File>
-	<File name="Graph.cpp" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="GUI.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="12437" topLine="397" />
+			<Cursor1 position="2744" topLine="93" />
 		</Cursor>
 	</File>
 </CodeBlocks_layout_file>

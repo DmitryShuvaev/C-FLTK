@@ -830,25 +830,25 @@
 
 1551598824 d:\projec\8_queens_ver1\blast.xpm
 
-1576752739 source:d:\projec\8_queens_ver1\main.cpp
+1582195136 source:d:\projec\8_queens_ver1\main.cpp
 	"Graph.h"
 	"Simple_window.h"
 	<FL/Fl_Shared_Image.H>
-	"Queens.h"
 
-1576141603 d:\projec\8_queens_ver1\simple_window.h
+1582195856 d:\projec\8_queens_ver1\simple_window.h
 	"GUI.h"
 	"Graph.h"
 	<iostream>
+	"Queens.h"
 
-1581481783 d:\projec\8_queens_ver1\queens.h
+1581591980 d:\projec\8_queens_ver1\queens.h
 	"Graph.h"
 	<iostream>
 
-1581481685 source:d:\projec\8_queens_ver1\queens.cpp
+1581574380 source:d:\projec\8_queens_ver1\queens.cpp
 	"Queens.h"
 
-1576142533 source:d:\projec\8_queens_ver1\simple_window.cpp
+1582194339 source:d:\projec\8_queens_ver1\simple_window.cpp
 	"Simple_window.h"
 	<FL/Fl_PNG_Image.H>
 	<FL/fl_utf8.h>
@@ -858,239 +858,7 @@
 	"Graph.h"
 	"GUI.h"
 
-1568185758 source:c:\fltk_projects\8_queens_ver1\graph.cpp
-	<FL/Fl_GIF_Image.H>
-	<FL/Fl_JPEG_Image.H>
-	<FL/Fl_PNG_Image.H>
-	"Graph.h"
-	<FL/Fl.H>
-	<iostream>
-
-1551602424 c:\program files (x86)\codeblocks\fltk-1.3.5\fl\fl_gif_image.h
-	"Fl_Pixmap.H"
-
-1551602424 c:\program files (x86)\codeblocks\fltk-1.3.5\fl\fl_pixmap.h
-	"Fl_Image.H"
-	"x.H"
-
-1551602424 c:\program files (x86)\codeblocks\fltk-1.3.5\fl\fl_image.h
-	"Enumerations.H"
-	<stdlib.h>
-
-1551602424 c:\program files (x86)\codeblocks\fltk-1.3.5\fl\enumerations.h
-	<FL/abi-version.h>
-	"Fl_Export.H"
-	"fl_types.h"
-
-1554043562 c:\program files (x86)\codeblocks\fltk-1.3.5\fl\abi-version.h
-
-1551602424 c:\program files (x86)\codeblocks\fltk-1.3.5\fl\fl_export.h
-
-1551602424 c:\program files (x86)\codeblocks\fltk-1.3.5\fl\fl_types.h
-
-1551602424 c:\program files (x86)\codeblocks\fltk-1.3.5\fl\x.h
-	"Enumerations.H"
-	"win32.H"
-	"mac.H"
-	<X11/Xlib.h>
-	<X11/Xutil.h>
-	<X11/Xatom.h>
-	"Fl_Window.H"
-
-1551602424 c:\program files (x86)\codeblocks\fltk-1.3.5\fl\win32.h
-	<windows.h>
-	<FL/Fl_Window.H>
-
-1551602424 c:\program files (x86)\codeblocks\fltk-1.3.5\fl\fl_window.h
-	<windows.h>
-	"Fl_Group.H"
-	"Fl_Bitmap.H"
-	<stdlib.h>
-
-1551602424 c:\program files (x86)\codeblocks\fltk-1.3.5\fl\fl_group.h
-	"Fl_Widget.H"
-
-1551602424 c:\program files (x86)\codeblocks\fltk-1.3.5\fl\fl_widget.h
-	"Enumerations.H"
-	<stdint.h>
-	<stddef.h>
-
-1551602424 c:\program files (x86)\codeblocks\fltk-1.3.5\fl\fl_bitmap.h
-	"Fl_Image.H"
-
-1551602424 c:\program files (x86)\codeblocks\fltk-1.3.5\fl\mac.h
-	<FL/Fl_Widget.H>
-	<ApplicationServices/ApplicationServices.h>
-	"Fl_Window.H"
-	"../src/Fl_Font.H"
-
-1551602424 c:\program files (x86)\codeblocks\fltk-1.3.5\src\fl_font.h
-	<config.h>
-	"Xutf8.h"
-
-1554043562 c:\program files (x86)\codeblocks\fltk-1.3.5\config.h
-	<mac_endianness.h>
-
-1551602424 c:\program files (x86)\codeblocks\fltk-1.3.5\mac_endianness.h
-
-1551602424 c:\program files (x86)\codeblocks\fltk-1.3.5\src\xutf8.h
-	<X11/X.h>
-	<X11/Xlib.h>
-	<X11/Xlocale.h>
-	<X11/Xutil.h>
-	<FL/Fl_Export.H>
-
-1551602424 c:\program files (x86)\codeblocks\fltk-1.3.5\fl\fl_jpeg_image.h
-	"Fl_Image.H"
-
-1551602424 c:\program files (x86)\codeblocks\fltk-1.3.5\fl\fl_png_image.h
-	"Fl_Image.H"
-
-1575288547 c:\fltk_projects\8_queens_ver1\graph.h
-	<FL/fl_draw.H>
-	<FL/Fl_Image.H>
-	"Point.h"
-	"std_lib_facilities.h"
-
-1551602424 c:\program files (x86)\codeblocks\fltk-1.3.5\fl\fl_draw.h
-	<FL/x.H>
-	<FL/Enumerations.H>
-	<FL/Fl_Window.H>
-	<FL/Fl_Device.H>
-
-1551602424 c:\program files (x86)\codeblocks\fltk-1.3.5\fl\fl_device.h
-	<FL/x.H>
-	<FL/Fl_Plugin.H>
-	<FL/Fl_Image.H>
-	<FL/Fl_Bitmap.H>
-	<FL/Fl_Pixmap.H>
-	<FL/Fl_RGB_Image.H>
-	<stdlib.h>
-
-1551602424 c:\program files (x86)\codeblocks\fltk-1.3.5\fl\fl_plugin.h
-	"Fl_Preferences.H"
-
-1551602424 c:\program files (x86)\codeblocks\fltk-1.3.5\fl\fl_preferences.h
-	<stdio.h>
-	"Fl_Export.H"
-
-1551602424 c:\program files (x86)\codeblocks\fltk-1.3.5\fl\fl_rgb_image.h
-	"Fl_Image.H"
-
-1568185883 c:\fltk_projects\8_queens_ver1\point.h
-
-1233332060 c:\fltk_projects\8_queens_ver1\std_lib_facilities.h
-	<cmath>
-	<cstring>
-	<fstream>
-	<stdexcept>
-	<string>
-	<sstream>
-	<vector>
-
-1551602424 c:\program files (x86)\codeblocks\fltk-1.3.5\fl\fl.h
-	<FL/Fl_Export.H>
-	<FL/Fl_Cairo.H>
-	"fl_utf8.h"
-	"Enumerations.H"
-	<stdio.h>
-	<FL/Fl.H>
-	<FL/Fl_Window.H>
-
-1551602424 c:\program files (x86)\codeblocks\fltk-1.3.5\fl\fl_cairo.h
-	<FL/Fl_Export.H>
-	<cairo.h>
-
-1551602424 c:\program files (x86)\codeblocks\fltk-1.3.5\fl\fl_utf8.h
-	"Fl_Export.H"
-	"fl_types.h"
-	<stdio.h>
-	<string.h>
-	<stdlib.h>
-	<sys/types.h>
-	<sys/stat.h>
-	<locale.h>
-	<ctype.h>
-	<wchar.h>
-	<sys/stat.h>
-	<sys/types.h>
-	<sys/stat.h>
-	<X11/Xlocale.h>
-	<X11/Xlib.h>
-	<locale.h>
-
-1555954066 source:c:\fltk_projects\8_queens_ver1\gui.cpp
-	<FL/Fl.H>
-	<FL/Fl_Button.H>
-	<FL/Fl_Output.H>
-	"GUI.h"
-
-1551602424 c:\program files (x86)\codeblocks\fltk-1.3.5\fl\fl_button.h
-	"Fl_Widget.H"
-
-1551602424 c:\program files (x86)\codeblocks\fltk-1.3.5\fl\fl_output.h
-	"Fl_Input.H"
-
-1551602424 c:\program files (x86)\codeblocks\fltk-1.3.5\fl\fl_input.h
-	"Fl_Input_.H"
-
-1551602424 c:\program files (x86)\codeblocks\fltk-1.3.5\fl\fl_input_.h
-	"Fl_Widget.H"
-
-1555954030 c:\fltk_projects\8_queens_ver1\gui.h
-	"Window.h"
-	"Graph.h"
-
-1573537764 c:\fltk_projects\8_queens_ver1\window.h
-	<FL/fl_draw.H>
-	<string>
-	<vector>
-	<FL/Fl.H>
-	<FL/Fl_Window.H>
-	<FL/Fl_Double_Window.H>
-	<FL/Fl_Box.H>
-	"Point.h"
-	<FL/Fl_Pixmap.H>
-	"blast.xpm"
-
-1551602424 c:\program files (x86)\codeblocks\fltk-1.3.5\fl\fl_double_window.h
-	"Fl_Window.H"
-
-1551602424 c:\program files (x86)\codeblocks\fltk-1.3.5\fl\fl_box.h
-	"Fl_Widget.H"
-
-1551598824 c:\fltk_projects\8_queens_ver1\blast.xpm
-
-1576752739 source:c:\fltk_projects\8_queens_ver1\main.cpp
-	"Graph.h"
-	"Simple_window.h"
-	<FL/Fl_Shared_Image.H>
-	"Queens.h"
-
-1576141603 c:\fltk_projects\8_queens_ver1\simple_window.h
-	"GUI.h"
-	"Graph.h"
-	<iostream>
-
-1551602424 c:\program files (x86)\codeblocks\fltk-1.3.5\fl\fl_shared_image.h
-	"Fl_Image.H"
-
-1581481783 c:\fltk_projects\8_queens_ver1\queens.h
-	"Graph.h"
-	<iostream>
-
-1581481685 source:c:\fltk_projects\8_queens_ver1\queens.cpp
-	"Queens.h"
-
-1576142533 source:c:\fltk_projects\8_queens_ver1\simple_window.cpp
-	"Simple_window.h"
-	<FL/Fl_PNG_Image.H>
-	<FL/fl_utf8.h>
-
-1573537764 source:c:\fltk_projects\8_queens_ver1\window.cpp
-	"Window.h"
-	"Graph.h"
-	"GUI.h"
+1551602424 d:\projec\8_queens_ver1\pixmaps\white_1.xbm
 
 1568185758 source:c:\c++_fltk\8_queens_ver1\graph.cpp
 	<FL/Fl_GIF_Image.H>
@@ -1150,25 +918,25 @@
 
 1551598824 c:\c++_fltk\8_queens_ver1\blast.xpm
 
-1576752739 source:c:\c++_fltk\8_queens_ver1\main.cpp
+1582195136 source:c:\c++_fltk\8_queens_ver1\main.cpp
 	"Graph.h"
 	"Simple_window.h"
 	<FL/Fl_Shared_Image.H>
-	"Queens.h"
 
-1576141603 c:\c++_fltk\8_queens_ver1\simple_window.h
+1582195856 c:\c++_fltk\8_queens_ver1\simple_window.h
 	"GUI.h"
 	"Graph.h"
 	<iostream>
+	"Queens.h"
 
-1581481783 c:\c++_fltk\8_queens_ver1\queens.h
+1581591980 c:\c++_fltk\8_queens_ver1\queens.h
 	"Graph.h"
 	<iostream>
 
-1581481685 source:c:\c++_fltk\8_queens_ver1\queens.cpp
+1581574380 source:c:\c++_fltk\8_queens_ver1\queens.cpp
 	"Queens.h"
 
-1576142533 source:c:\c++_fltk\8_queens_ver1\simple_window.cpp
+1582813373 source:c:\c++_fltk\8_queens_ver1\simple_window.cpp
 	"Simple_window.h"
 	<FL/Fl_PNG_Image.H>
 	<FL/fl_utf8.h>

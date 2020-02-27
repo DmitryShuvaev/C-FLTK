@@ -257,9 +257,9 @@ void start_sequence()
  //here must be while loop to start
  //
  int count=0;
- while(solved()==false){
+ while(queen.x<=x_size-1&&queen.y>0){//while (queen.x<8&&queen.y>=0
 //
-//if(solved())break;
+
   while(can_move(queen)==false)
   {
     cur_ylevel--;
@@ -287,9 +287,18 @@ void start_sequence()
 //    //cout<<check_vertical_bord(queen.x,queen.y)<<endl;
 //    cout<<check_left_diag(queen.x,queen.y)<<endl;
     //cout<<check_right_top_diag(queen.x,queen.y)<<endl;
-cout<<count++<<endl;
+//cout<<count++<<endl;
+    //print_board();
+    if(solved())
+    {
+     print_board();
+     cout<<endl;
+     count++;
+     break;
+    }
+    if(count==92)break;
  }
-    print_board();
+cout<<"finish"<<endl;
 }
 int x_size,y_size;
 int chese_board[8][8];
