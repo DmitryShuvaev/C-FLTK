@@ -26,3 +26,9 @@ ________________________________________________________________________________
 8 queen problem. The eight queens problem is the problem of placing eight queens on an 8×8 chessboard 
 such that none of them attack one another (no two are in the same row, column, or diagonal). 
 More generally, the n queens problem places n queens on an n×n chessboard. <br/>
+__________________________________________________________________________________________________________________________________________
+<img src="Skip_list_ver1/src/image.jpg">
+Skip lists are a probabilistic data structure 
+that seem likely to supplant balanced trees as the implementation method of choice for many applications. 
+Skip list algorithms have the same asymptotic 
+expected time bounds as balanced trees and are simpler, faster and use less space. <br/>
