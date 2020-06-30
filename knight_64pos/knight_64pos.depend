@@ -1,0 +1,189 @@
+# depslib dependency file v1.0
+1592799607 source:d:\projec\knight_64pos\main.cpp
+	"MainWindow.h"
+
+1551602424 d:\codeblocks\fltk-1.3.5\fl\fl.h
+	<FL/Fl_Export.H>
+	<FL/Fl_Cairo.H>
+	"fl_utf8.h"
+	"Enumerations.H"
+	<stdio.h>
+	<FL/Fl.H>
+	<FL/Fl_Window.H>
+
+1551602424 d:\codeblocks\fltk-1.3.5\fl\fl_export.h
+
+1551602424 d:\codeblocks\fltk-1.3.5\fl\fl_cairo.h
+	<FL/Fl_Export.H>
+	<cairo.h>
+
+1551602424 d:\codeblocks\fltk-1.3.5\fl\fl_utf8.h
+	"Fl_Export.H"
+	"fl_types.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<locale.h>
+	<ctype.h>
+	<wchar.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<X11/Xlocale.h>
+	<X11/Xlib.h>
+	<locale.h>
+
+1551602424 d:\codeblocks\fltk-1.3.5\fl\fl_types.h
+
+1551602424 d:\codeblocks\fltk-1.3.5\fl\enumerations.h
+	<FL/abi-version.h>
+	"Fl_Export.H"
+	"fl_types.h"
+
+1554043562 d:\codeblocks\fltk-1.3.5\fl\abi-version.h
+
+1551602424 d:\codeblocks\fltk-1.3.5\fl\fl_window.h
+	<windows.h>
+	"Fl_Group.H"
+	"Fl_Bitmap.H"
+	<stdlib.h>
+
+1551602424 d:\codeblocks\fltk-1.3.5\fl\fl_group.h
+	"Fl_Widget.H"
+
+1551602424 d:\codeblocks\fltk-1.3.5\fl\fl_widget.h
+	"Enumerations.H"
+	<stdint.h>
+	<stddef.h>
+
+1551602424 d:\codeblocks\fltk-1.3.5\fl\fl_bitmap.h
+	"Fl_Image.H"
+
+1551602424 d:\codeblocks\fltk-1.3.5\fl\fl_image.h
+	"Enumerations.H"
+	<stdlib.h>
+
+1551602424 d:\codeblocks\fltk-1.3.5\fl\fl_box.h
+	"Fl_Widget.H"
+
+1563010542 source:d:\projec\knight_64pos\text.cpp
+	"Text.h"
+
+1592885685 d:\projec\knight_64pos\text.h
+	<FL/fl_draw.H>
+
+1551602424 d:\codeblocks\fltk-1.3.5\fl\fl_draw.h
+	<FL/x.H>
+	<FL/Enumerations.H>
+	<FL/Fl_Window.H>
+	<FL/Fl_Device.H>
+
+1551602424 d:\codeblocks\fltk-1.3.5\fl\x.h
+	"Enumerations.H"
+	"win32.H"
+	"mac.H"
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/Xatom.h>
+	"Fl_Window.H"
+
+1551602424 d:\codeblocks\fltk-1.3.5\fl\win32.h
+	<windows.h>
+	<FL/Fl_Window.H>
+
+1551602424 d:\codeblocks\fltk-1.3.5\fl\mac.h
+	<FL/Fl_Widget.H>
+	<ApplicationServices/ApplicationServices.h>
+	"Fl_Window.H"
+	"../src/Fl_Font.H"
+
+1551602424 d:\codeblocks\fltk-1.3.5\src\fl_font.h
+	<config.h>
+	"Xutf8.h"
+
+1554043562 d:\codeblocks\fltk-1.3.5\config.h
+	<mac_endianness.h>
+
+1551602424 d:\codeblocks\fltk-1.3.5\mac_endianness.h
+
+1551602424 d:\codeblocks\fltk-1.3.5\src\xutf8.h
+	<X11/X.h>
+	<X11/Xlib.h>
+	<X11/Xlocale.h>
+	<X11/Xutil.h>
+	<FL/Fl_Export.H>
+
+1551602424 d:\codeblocks\fltk-1.3.5\fl\fl_device.h
+	<FL/x.H>
+	<FL/Fl_Plugin.H>
+	<FL/Fl_Image.H>
+	<FL/Fl_Bitmap.H>
+	<FL/Fl_Pixmap.H>
+	<FL/Fl_RGB_Image.H>
+	<stdlib.h>
+
+1551602424 d:\codeblocks\fltk-1.3.5\fl\fl_plugin.h
+	"Fl_Preferences.H"
+
+1551602424 d:\codeblocks\fltk-1.3.5\fl\fl_preferences.h
+	<stdio.h>
+	"Fl_Export.H"
+
+1551602424 d:\codeblocks\fltk-1.3.5\fl\fl_pixmap.h
+	"Fl_Image.H"
+	"x.H"
+
+1551602424 d:\codeblocks\fltk-1.3.5\fl\fl_rgb_image.h
+	"Fl_Image.H"
+
+1593426382 source:d:\projec\knight_64pos\mainwindow.cpp
+	"MainWindow.h"
+
+1593421951 d:\projec\knight_64pos\mainwindow.h
+	<FL/Fl_Window.H>
+	<FL/Fl.H>
+	<FL/fl_draw.H>
+	<FL/Fl_Button.H>
+	<FL/Fl_Input.H>
+	<FL/Fl_Output.H>
+	<FL/Fl_RGB_Image.H>
+	<FL/Fl_PNG_Image.H>
+	<FL/Fl_Pixmap.H>
+	<string>
+	<iostream>
+	<sstream>
+	"DrawLine.h"
+	"Text.h"
+	"Knight.h"
+
+1551602424 d:\codeblocks\fltk-1.3.5\fl\fl_button.h
+	"Fl_Widget.H"
+
+1551602424 d:\codeblocks\fltk-1.3.5\fl\fl_input.h
+	"Fl_Input_.H"
+
+1551602424 d:\codeblocks\fltk-1.3.5\fl\fl_input_.h
+	"Fl_Widget.H"
+
+1551602424 d:\codeblocks\fltk-1.3.5\fl\fl_output.h
+	"Fl_Input.H"
+
+1551602424 d:\codeblocks\fltk-1.3.5\fl\fl_png_image.h
+	"Fl_Image.H"
+
+1592453747 source:d:\projec\knight_64pos\drawline.cpp
+	"DrawLine.h"
+
+1593146553 d:\projec\knight_64pos\drawline.h
+	<FL/Fl.H>
+	<FL/fl_draw.H>
+
+1593426016 d:\projec\knight_64pos\knight.h
+	<vector>
+	<iostream>
+
+1593425990 source:d:\projec\knight_64pos\knight.cpp
+	"Knight.h"
+
