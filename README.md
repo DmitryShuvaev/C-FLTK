@@ -40,3 +40,7 @@ following the same path), the tour is closed; otherwise, it is open. <br/>
 __________________________________________________________________________________________________________________________________________
 <img src="Slot_Machine/img.jpg">
 Slot machine is a game of chance. <br/>
+__________________________________________________________________________________________________________________________________________
+<img src="ImageViewer_fltk/im1.jpg">
+views pictures from directory selection, supports unicode uses win32 api as file selection, automatically resizes the window to fit the 
+picture <br/>

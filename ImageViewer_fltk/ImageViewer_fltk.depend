@@ -1,0 +1,217 @@
+# depslib dependency file v1.0
+1626610220 source:c:\users\dmitry_shu\desktop\fltk_code_blocks\testcode\imageviewer_fltk\main.cpp
+	"Window.h"
+
+1626629084 c:\users\dmitry_shu\desktop\fltk_code_blocks\testcode\imageviewer_fltk\window.h
+	<FL/Fl.H>
+	<FL/Fl_Window.h>
+	<FL/Fl_Box.H>
+	<FL/Fl_PNG_Image.H>
+	<FL/Fl_JPEG_Image.H>
+	<FL/Fl_Button.H>
+	<FL/Fl_Shared_Image.H>
+	<FL/Fl_File_Chooser.H>
+	<FL/fl_utf8.h>
+	<iostream>
+	<Windows.h>
+	<string>
+	<vector>
+	"Button.h"
+	<stdexcept>
+	<limits>
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<locale.h>
+	<codecvt>
+	<locale>
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl.h
+	<FL/Fl_Export.H>
+	<FL/Fl_Cairo.H>
+	"fl_utf8.h"
+	"Enumerations.H"
+	<stdio.h>
+	<FL/Fl.H>
+	<FL/Fl_Window.H>
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_export.h
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_cairo.h
+	<FL/Fl_Export.H>
+	<cairo.h>
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_utf8.h
+	"Fl_Export.H"
+	"fl_types.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<locale.h>
+	<ctype.h>
+	<wchar.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<X11/Xlocale.h>
+	<X11/Xlib.h>
+	<locale.h>
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_types.h
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\enumerations.h
+	<FL/abi-version.h>
+	"Fl_Export.H"
+	"fl_types.h"
+
+1598456640 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\abi-version.h
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_window.h
+	<windows.h>
+	"Fl_Group.H"
+	"Fl_Bitmap.H"
+	<stdlib.h>
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_group.h
+	"Fl_Widget.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_widget.h
+	"Enumerations.H"
+	<stdint.h>
+	<stddef.h>
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_bitmap.h
+	"Fl_Image.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_image.h
+	"Enumerations.H"
+	<stdlib.h>
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_box.h
+	"Fl_Widget.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_png_image.h
+	"Fl_Image.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_jpeg_image.h
+	"Fl_Image.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_button.h
+	"Fl_Widget.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_shared_image.h
+	"Fl_Image.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_file_chooser.h
+	<FL/Fl.H>
+	<FL/Fl_Double_Window.H>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<FL/Fl_Group.H>
+	<FL/Fl_Choice.H>
+	<FL/Fl_Menu_Button.H>
+	<FL/Fl_Button.H>
+	<FL/Fl_Preferences.H>
+	<FL/Fl_Tile.H>
+	<FL/Fl_File_Browser.H>
+	<FL/Fl_Box.H>
+	<FL/Fl_Check_Button.H>
+	<FL/Fl_File_Input.H>
+	<FL/Fl_Return_Button.H>
+	<FL/fl_ask.H>
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_double_window.h
+	"Fl_Window.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_choice.h
+	"Fl_Menu_.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_menu_.h
+	"Fl_Widget.H"
+	"Fl_Menu_Item.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_menu_item.h
+	"Fl_Widget.H"
+	"Fl_Image.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_menu_button.h
+	"Fl_Menu_.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_preferences.h
+	<stdio.h>
+	"Fl_Export.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_tile.h
+	"Fl_Group.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_file_browser.h
+	"Fl_Browser.H"
+	"Fl_File_Icon.H"
+	"filename.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_browser.h
+	"Fl_Browser_.H"
+	"Fl_Image.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_browser_.h
+	"Fl_Group.H"
+	"Fl_Scrollbar.H"
+	<FL/Fl.H>
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_scrollbar.h
+	"Fl_Slider.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_slider.h
+	"Fl_Valuator.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_valuator.h
+	"Fl_Widget.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_file_icon.h
+	"Fl.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\filename.h
+	"/usr/include/dirent.h"
+	"Fl_Export.H"
+	<FL/filename.H>
+	<sys/types.h>
+	<direct.h>
+	<sys/types.h>
+	<dirent.h>
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_check_button.h
+	"Fl_Light_Button.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_light_button.h
+	"Fl_Button.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_file_input.h
+	<FL/Fl_Input.H>
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_input.h
+	"Fl_Input_.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_input_.h
+	"Fl_Widget.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_return_button.h
+	"Fl_Button.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_ask.h
+	"Enumerations.H"
+
+1626114940 c:\users\dmitry_shu\desktop\fltk_code_blocks\testcode\imageviewer_fltk\button.h
+	<FL/Fl_Button.H>
+	<FL/Fl.H>
+	<string>
+	<cstring>
+
+1626114912 source:c:\users\dmitry_shu\desktop\fltk_code_blocks\testcode\imageviewer_fltk\button.cpp
+	"Button.h"
+
+1626705728 source:c:\users\dmitry_shu\desktop\fltk_code_blocks\testcode\imageviewer_fltk\window.cpp
+	"Window.h"
+
