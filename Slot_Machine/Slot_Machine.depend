@@ -2,7 +2,7 @@
 1626019048 source:c:\users\dmitry_shu\desktop\fltk_code_blocks\testcode\slot_machine\main.cpp
 	"Window.h"
 
-1626013987 c:\users\dmitry_shu\desktop\fltk_code_blocks\testcode\slot_machine\window.h
+1627651866 c:\users\dmitry_shu\desktop\fltk_code_blocks\testcode\slot_machine\window.h
 	<FL/Fl.H>
 	<FL/Fl_Window.h>
 	<FL/Fl_Box.H>
@@ -94,18 +94,18 @@
 1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_shared_image.h
 	"Fl_Image.H"
 
-1626022535 source:c:\users\dmitry_shu\desktop\fltk_code_blocks\testcode\slot_machine\window.cpp
+1627654924 source:c:\users\dmitry_shu\desktop\fltk_code_blocks\testcode\slot_machine\window.cpp
 	"Window.h"
 
 1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_pack.h
 	<FL/Fl_Group.H>
 
-1626012339 c:\users\dmitry_shu\desktop\fltk_code_blocks\testcode\slot_machine\box.h
+1627651848 c:\users\dmitry_shu\desktop\fltk_code_blocks\testcode\slot_machine\box.h
 	<FL/Fl_Box.H>
 	<FL/Fl_PNG_Image.H>
 	<iostream>
 
-1626015658 source:c:\users\dmitry_shu\desktop\fltk_code_blocks\testcode\slot_machine\box.cpp
+1627651848 source:c:\users\dmitry_shu\desktop\fltk_code_blocks\testcode\slot_machine\box.cpp
 	"Box.h"
 
 1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_ask.h

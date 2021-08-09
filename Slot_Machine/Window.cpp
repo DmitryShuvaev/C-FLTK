@@ -25,30 +25,34 @@ Window::Window(int width, int height, char* title)
  fnames[4]="bell.png";
  fnames[5]="grape.png";
  int i = rand() % 6;
- cout<<i<<endl;
+ //cout<<i<<endl;
   //
   pack=new Fl_Pack(2,2,width-2,height-2);
 
   pack->type(Fl_Pack::HORIZONTAL);
 
-  b= new Boxes[3];
+  //b= new Boxes[1];
+  resizeAr(b);
   //resizeAr(b);
   //resizeAr(b);
-  b[0].b=new Box(0,0,200,pack->h(),fnames[i]);
-
+  cout<<size<<endl;
+  b[size-1].box=new Box(0,0,200,pack->h(),fnames[i]);
+  //cout<<"b[0]created"<<endl;
 //  Fl::release_widget_pointer(b[0].b);
   //b[0].b->hide();
   //b[0].b=NULL;
 //  delete b[0].b;
 //  b[0].b=NULL;
-  //resizeAr(b);
+  resizeAr(b);
+  cout<<size<<endl;
   i = rand() % 6;
-  b[1].b=new Box(0,0,200,pack->h(),fnames[i]);
+  b[size-1].box=new Box(0,0,200,pack->h(),fnames[i]);
 
-  //resizeAr(b);
+  resizeAr(b);
+  cout<<size<<endl;
   i = rand() % 6;
-  b[2].b=new Box(0,0,200,pack->h(),fnames[i]);
-
+  b[size-1].box=new Box(0,0,200,pack->h(),fnames[i]);
+//cout<<size<<endl;
 button = new Fl_Button(0, 0, 50, h(), "Pull");
 button->callback(butn_calb,this);
 Fl::scheme("plastic");
@@ -90,11 +94,11 @@ void Window::rand_images()
          int i = rand() % 6;
          int c = rand() % 6;
 
-         b[0].b->set_image(fnames[a]);
+         b[0].box->set_image(fnames[a]);
 
-         b[1].b->set_image(fnames[i]);
+         b[1].box->set_image(fnames[i]);
 
-         b[2].b->set_image(fnames[c]);
+         b[2].box->set_image(fnames[c]);
          redraw();
          if(a==i&&a==c)
          fl_message("You win!");
@@ -102,28 +106,18 @@ void Window::rand_images()
 void Window::resizeAr(Boxes*&ar)
 {
     Boxes *resize = new Boxes[size+1];
-    //if(ar!=NULL)
     for(int i = 0; i < size; i++)
     {
-     if(ar[i].b!=NULL)
+     if(ar[i].box!=NULL)
      {
-     resize[i] = ar[i];
-     //resize[i].b = ar[i].b;
-     //ar[i].b->hide();
-     //
-     //delete ar[i].b;
-     ar[i].b=NULL;
+     resize[i].box=new Box(0,0,200,pack->h(),(ar[i].box->file_name));
      }
 
     }
-    //if(ar!=NULL)
+    if(ar!=NULL)
     delete[] ar;
-
-    ar=NULL;
-    //if(ar!=NULL)
-
     ar = resize;
 
     size+=1;
-cout << size<<endl;
+//cout << size<<endl;
 }

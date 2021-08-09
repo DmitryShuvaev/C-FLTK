@@ -2,7 +2,7 @@
 1626610220 source:c:\users\dmitry_shu\desktop\fltk_code_blocks\testcode\imageviewer_fltk\main.cpp
 	"Window.h"
 
-1626629084 c:\users\dmitry_shu\desktop\fltk_code_blocks\testcode\imageviewer_fltk\window.h
+1627732325 c:\users\dmitry_shu\desktop\fltk_code_blocks\testcode\imageviewer_fltk\window.h
 	<FL/Fl.H>
 	<FL/Fl_Window.h>
 	<FL/Fl_Box.H>
@@ -203,7 +203,7 @@
 1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_ask.h
 	"Enumerations.H"
 
-1626114940 c:\users\dmitry_shu\desktop\fltk_code_blocks\testcode\imageviewer_fltk\button.h
+1627732102 c:\users\dmitry_shu\desktop\fltk_code_blocks\testcode\imageviewer_fltk\button.h
 	<FL/Fl_Button.H>
 	<FL/Fl.H>
 	<string>
@@ -212,6 +212,6 @@
 1626114912 source:c:\users\dmitry_shu\desktop\fltk_code_blocks\testcode\imageviewer_fltk\button.cpp
 	"Button.h"
 
-1626705728 source:c:\users\dmitry_shu\desktop\fltk_code_blocks\testcode\imageviewer_fltk\window.cpp
+1627730865 source:c:\users\dmitry_shu\desktop\fltk_code_blocks\testcode\imageviewer_fltk\window.cpp
 	"Window.h"
 

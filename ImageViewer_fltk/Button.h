@@ -41,6 +41,24 @@ class Button: public Fl_Button
          }
          w->label(intToStr(num));
         }
+        //***************************
+        int handle(int event)
+        {
+            int retval=Fl_Button::handle(event);
+            switch (event)
+            {
+            case FL_ENTER:
+            color (FL_BLUE);
+            redraw();
+              return 1;
+            case FL_LEAVE:
+            color (FL_BACKGROUND_COLOR);
+            redraw();
+             return 1;
+            default:
+                 return retval;
+            }
+        }
     int n;
 };
 

@@ -44,3 +44,6 @@ ________________________________________________________________________________
 <img src="ImageViewer_fltk/im1.jpg">
 views pictures from directory selection, supports unicode uses win32 api as file selection, automatically resizes the window to fit the 
 picture <br/>
+__________________________________________________________________________________________________________________________________________
+<img src="graphic/grimg.jpg">
+the graph y=pow(x) can change the value when you press the up or down buttons <br/>

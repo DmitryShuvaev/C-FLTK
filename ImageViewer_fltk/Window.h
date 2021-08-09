@@ -59,6 +59,17 @@ class Window: public Fl_Window
         //=============================================================================
         void Button_Callback(Button* w,Window* win)
         {
+         if(win->origimg!=NULL)
+          {
+              delete win->origimg;
+              win->origimg=NULL;
+
+          }
+          if(win->img!=NULL)
+          {
+              delete win->img;
+              win->img=NULL;
+          }
          if(Fl::event_button()==FL_MIDDLE_MOUSE)
          {
           files.clear();
@@ -136,7 +147,7 @@ class Window: public Fl_Window
            win->picbox->image(win->img);
            win->redraw();
           }
-
+        win->origimg=win->img;
         }
 //=============================================================================
 std::string ws2s(const std::wstring& wstr)//c++11
@@ -195,13 +206,26 @@ std::string get_string_from_wsz(std::wstring pwsz )
 
             return names;
         }
+//****************************************************
+void draw()
+{
+ Fl_Window::draw();
+  if(origimg!=NULL)
+  {
 
+     if(cimg!=NULL)delete cimg;
+     cimg = origimg->copy(picbox->w(), picbox->h());
+     picbox->image(cimg);
+     picbox->redraw();
+  }else cout<<"NULL"<<endl;
+}
     Fl_Box *picbox;
-    Fl_Box *imgbox;
 
     Button*rbut;
     Button*lbut;
     Fl_Image* img=NULL;
+    Fl_Image* cimg=NULL;
+    Fl_Image *origimg=NULL;
     vector<string>files;
      string d;
      int x=0;

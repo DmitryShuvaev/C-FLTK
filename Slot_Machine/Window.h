@@ -20,13 +20,13 @@ class Window: public Fl_Window
 {
     public:
         struct Boxes {
-            Box*b=NULL;
+            Box*box=NULL;
             ~Boxes() {
-                if(b!=NULL)
+                if(box!=NULL)
                 {
-                    delete b;
-                    b=NULL;
-                    cout<<"deleted"<<endl;
+                    delete box;
+                    box=NULL;
+                    cout<<"struct deleted"<<endl;
                 }
             }
         };
@@ -57,6 +57,23 @@ class Window: public Fl_Window
 
           rand_images();
 
+        }//
+        void draw()
+        {
+            for(int i = 0; i < size; i++)
+            {
+                if(b[i].box!=NULL)
+                {
+                    //b[i].box->draw();
+                    cout<<"b["<<i<<"].box!=NULL"<<endl;
+                    Fl_Window::draw();
+                    //
+                }else
+                {
+                    //cout<<"b["<<i<<"].box=NULL"<<endl;
+                }
+            }
+            //Fl_Window::draw();
         }
         int handle(int e);
         int handle_key(int event, int key);
@@ -67,7 +84,7 @@ class Window: public Fl_Window
     Fl_Pack*pack;
     Fl_Button*button;
     //
-    const char* fnames[7];
+    char* fnames[7];
 };
 
 #endif // WINDOW_H

@@ -124,7 +124,9 @@ else if(lastN(fname)==".jpg")
            delete jpg;
            picbox->image(img);
            redraw();
+
 }
+origimg=img;
 }//END constr
 
 int Window::handle(int event)
