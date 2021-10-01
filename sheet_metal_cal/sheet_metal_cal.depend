@@ -1,0 +1,577 @@
+# depslib dependency file v1.0
+1630936385 source:c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\testcode\sheet_metal_cal\main.cpp
+	"MainWindow.h"
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl.h
+	<FL/Fl_Export.H>
+	<FL/Fl_Cairo.H>
+	"fl_utf8.h"
+	"Enumerations.H"
+	<stdio.h>
+	<FL/Fl.H>
+	<FL/Fl_Window.H>
+	<FL/Fl_Export.H>
+	<FL/Fl_Cairo.H>
+	"fl_utf8.h"
+	"Enumerations.H"
+	<stdio.h>
+	<FL/Fl.H>
+	<FL/Fl_Window.H>
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_export.h
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_cairo.h
+	<FL/Fl_Export.H>
+	<cairo.h>
+	<FL/Fl_Export.H>
+	<cairo.h>
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_utf8.h
+	"Fl_Export.H"
+	"fl_types.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<locale.h>
+	<ctype.h>
+	<wchar.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<X11/Xlocale.h>
+	<X11/Xlib.h>
+	<locale.h>
+	"Fl_Export.H"
+	"fl_types.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<locale.h>
+	<ctype.h>
+	<wchar.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<X11/Xlocale.h>
+	<X11/Xlib.h>
+	<locale.h>
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_types.h
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\enumerations.h
+	<FL/abi-version.h>
+	"Fl_Export.H"
+	"fl_types.h"
+	<FL/abi-version.h>
+	"Fl_Export.H"
+	"fl_types.h"
+
+1598456642 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\abi-version.h
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_window.h
+	<windows.h>
+	"Fl_Group.H"
+	"Fl_Bitmap.H"
+	<stdlib.h>
+	<windows.h>
+	"Fl_Group.H"
+	"Fl_Bitmap.H"
+	<stdlib.h>
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_group.h
+	"Fl_Widget.H"
+	"Fl_Widget.H"
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_widget.h
+	"Enumerations.H"
+	<stdint.h>
+	<stddef.h>
+	"Enumerations.H"
+	<stdint.h>
+	<stddef.h>
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_bitmap.h
+	"Fl_Image.H"
+	"Fl_Image.H"
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_image.h
+	"Enumerations.H"
+	<stdlib.h>
+	"Enumerations.H"
+	<stdlib.h>
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_box.h
+	"Fl_Widget.H"
+	"Fl_Widget.H"
+
+1630915094 source:c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\testcode\sheet_metal_cal\calculate.cpp
+	"Calculate.h"
+
+1630914386 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\testcode\sheet_metal_cal\calculate.h
+	<iostream>
+	<sstream>
+	<string.h>
+	"Lexer.h"
+	<FL/fl_ask.H>
+
+1623316235 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\testcode\sheet_metal_cal\lexer.h
+	"Converter.h"
+	"Converter.h"
+
+1630583379 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\testcode\sheet_metal_cal\converter.h
+	<iostream>
+	<sstream>
+	<map>
+	<string>
+	<algorithm>
+	<cctype>
+	<cmath>
+	<math.h>
+	<stdio.h>
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_ask.h
+	"Enumerations.H"
+	"Enumerations.H"
+
+1623313183 source:c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\testcode\sheet_metal_cal\converter.cpp
+	"Converter.h"
+	"Converter.h"
+
+1630583600 source:c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\testcode\sheet_metal_cal\lexer.cpp
+	"Lexer.h"
+
+1632314543 source:c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\testcode\sheet_metal_cal\mainwindow.cpp
+	"MainWindow.h"
+
+1632314741 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\testcode\sheet_metal_cal\mainwindow.h
+	<FL/Fl.H>
+	<FL/Fl_Window.H>
+	<FL/Fl_Button.H>
+	<FL/Fl_Input.H>
+	<FL/Fl_Output.H>
+	<FL/Fl_Choice.H>
+	<FL/fl_draw.H>
+	<FL/Fl_Text_Display.H>
+	<FL/Fl_Shared_Image.H>
+	<FL/Fl_PNG_Image.H>
+	<FL/Fl_Box.h>
+	"Calculate.h"
+	"Box.h"
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_button.h
+	"Fl_Widget.H"
+	"Fl_Widget.H"
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_input.h
+	"Fl_Input_.H"
+	"Fl_Input_.H"
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_input_.h
+	"Fl_Widget.H"
+	"Fl_Widget.H"
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_output.h
+	"Fl_Input.H"
+	"Fl_Input.H"
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_choice.h
+	"Fl_Menu_.H"
+	"Fl_Menu_.H"
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_menu_.h
+	"Fl_Widget.H"
+	"Fl_Menu_Item.H"
+	"Fl_Widget.H"
+	"Fl_Menu_Item.H"
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_menu_item.h
+	"Fl_Widget.H"
+	"Fl_Image.H"
+	"Fl_Widget.H"
+	"Fl_Image.H"
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_draw.h
+	<FL/x.H>
+	<FL/Enumerations.H>
+	<FL/Fl_Window.H>
+	<FL/Fl_Device.H>
+	<FL/x.H>
+	<FL/Enumerations.H>
+	<FL/Fl_Window.H>
+	<FL/Fl_Device.H>
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\x.h
+	"Enumerations.H"
+	"win32.H"
+	"mac.H"
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/Xatom.h>
+	"Fl_Window.H"
+	"Enumerations.H"
+	"win32.H"
+	"mac.H"
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/Xatom.h>
+	"Fl_Window.H"
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\win32.h
+	<windows.h>
+	<FL/Fl_Window.H>
+	<windows.h>
+	<FL/Fl_Window.H>
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\mac.h
+	<FL/Fl_Widget.H>
+	<ApplicationServices/ApplicationServices.h>
+	"Fl_Window.H"
+	"../src/Fl_Font.H"
+	<FL/Fl_Widget.H>
+	<ApplicationServices/ApplicationServices.h>
+	"Fl_Window.H"
+	"../src/Fl_Font.H"
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\src\fl_font.h
+	<config.h>
+	"Xutf8.h"
+	<config.h>
+	"Xutf8.h"
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\src\xutf8.h
+	<X11/X.h>
+	<X11/Xlib.h>
+	<X11/Xlocale.h>
+	<X11/Xutil.h>
+	<FL/Fl_Export.H>
+	<X11/X.h>
+	<X11/Xlib.h>
+	<X11/Xlocale.h>
+	<X11/Xutil.h>
+	<FL/Fl_Export.H>
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_device.h
+	<FL/x.H>
+	<FL/Fl_Plugin.H>
+	<FL/Fl_Image.H>
+	<FL/Fl_Bitmap.H>
+	<FL/Fl_Pixmap.H>
+	<FL/Fl_RGB_Image.H>
+	<stdlib.h>
+	<FL/x.H>
+	<FL/Fl_Plugin.H>
+	<FL/Fl_Image.H>
+	<FL/Fl_Bitmap.H>
+	<FL/Fl_Pixmap.H>
+	<FL/Fl_RGB_Image.H>
+	<stdlib.h>
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_plugin.h
+	"Fl_Preferences.H"
+	"Fl_Preferences.H"
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_preferences.h
+	<stdio.h>
+	"Fl_Export.H"
+	<stdio.h>
+	"Fl_Export.H"
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_pixmap.h
+	"Fl_Image.H"
+	"x.H"
+	"Fl_Image.H"
+	"x.H"
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_rgb_image.h
+	"Fl_Image.H"
+	"Fl_Image.H"
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_text_display.h
+	"fl_draw.H"
+	"Fl_Group.H"
+	"Fl_Widget.H"
+	"Fl_Scrollbar.H"
+	"Fl_Text_Buffer.H"
+	<FL/FL_Text_Display.H>
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_scrollbar.h
+	"Fl_Slider.H"
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_slider.h
+	"Fl_Valuator.H"
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_valuator.h
+	"Fl_Widget.H"
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_text_buffer.h
+	<assert.h>
+	"Fl_Export.H"
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_png_image.h
+	"Fl_Image.H"
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_shared_image.h
+	"Fl_Image.H"
+
+1632983964 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\testcode\sheet_metal_cal\box.h
+	<FL/Fl_Box.h>
+	<FL/fl_draw.H>
+	<FL/Fl_Shared_Image.H>
+	<FL/Fl_PNG_Image.H>
+	<FL/Fl_Window.H>
+	<iostream>
+	<vector>
+	<FL/Fl.H>
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_double_window.h
+	"Fl_Window.H"
+
+1633003205 source:c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\testcode\sheet_metal_cal\box.cpp
+	"Box.h"
+
+1633003205 source:c:\users\dmitry_shu\desktop\fltk_code_blocks\testcode\sheet_metal_cal\box.cpp
+	"Box.h"
+
+1632983964 c:\users\dmitry_shu\desktop\fltk_code_blocks\testcode\sheet_metal_cal\box.h
+	<FL/Fl_Box.h>
+	<FL/fl_draw.H>
+	<FL/Fl_Shared_Image.H>
+	<FL/Fl_PNG_Image.H>
+	<FL/Fl_Window.H>
+	<iostream>
+	<vector>
+	<FL/Fl.H>
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_box.h
+	"Fl_Widget.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_widget.h
+	"Enumerations.H"
+	<stdint.h>
+	<stddef.h>
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\enumerations.h
+	<FL/abi-version.h>
+	"Fl_Export.H"
+	"fl_types.h"
+
+1598456640 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\abi-version.h
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_export.h
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_types.h
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_draw.h
+	<FL/x.H>
+	<FL/Enumerations.H>
+	<FL/Fl_Window.H>
+	<FL/Fl_Device.H>
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\x.h
+	"Enumerations.H"
+	"win32.H"
+	"mac.H"
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/Xatom.h>
+	"Fl_Window.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\win32.h
+	<windows.h>
+	<FL/Fl_Window.H>
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_window.h
+	<windows.h>
+	"Fl_Group.H"
+	"Fl_Bitmap.H"
+	<stdlib.h>
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_group.h
+	"Fl_Widget.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_bitmap.h
+	"Fl_Image.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_image.h
+	"Enumerations.H"
+	<stdlib.h>
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\mac.h
+	<FL/Fl_Widget.H>
+	<ApplicationServices/ApplicationServices.h>
+	"Fl_Window.H"
+	"../src/Fl_Font.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\src\fl_font.h
+	<config.h>
+	"Xutf8.h"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\src\xutf8.h
+	<X11/X.h>
+	<X11/Xlib.h>
+	<X11/Xlocale.h>
+	<X11/Xutil.h>
+	<FL/Fl_Export.H>
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_device.h
+	<FL/x.H>
+	<FL/Fl_Plugin.H>
+	<FL/Fl_Image.H>
+	<FL/Fl_Bitmap.H>
+	<FL/Fl_Pixmap.H>
+	<FL/Fl_RGB_Image.H>
+	<stdlib.h>
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_plugin.h
+	"Fl_Preferences.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_preferences.h
+	<stdio.h>
+	"Fl_Export.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_pixmap.h
+	"Fl_Image.H"
+	"x.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_rgb_image.h
+	"Fl_Image.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_shared_image.h
+	"Fl_Image.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_png_image.h
+	"Fl_Image.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl.h
+	<FL/Fl_Export.H>
+	<FL/Fl_Cairo.H>
+	"fl_utf8.h"
+	"Enumerations.H"
+	<stdio.h>
+	<FL/Fl.H>
+	<FL/Fl_Window.H>
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_cairo.h
+	<FL/Fl_Export.H>
+	<cairo.h>
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_utf8.h
+	"Fl_Export.H"
+	"fl_types.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<locale.h>
+	<ctype.h>
+	<wchar.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<X11/Xlocale.h>
+	<X11/Xlib.h>
+	<locale.h>
+
+1630915094 source:c:\users\dmitry_shu\desktop\fltk_code_blocks\testcode\sheet_metal_cal\calculate.cpp
+	"Calculate.h"
+
+1630914386 c:\users\dmitry_shu\desktop\fltk_code_blocks\testcode\sheet_metal_cal\calculate.h
+	<iostream>
+	<sstream>
+	<string.h>
+	"Lexer.h"
+	<FL/fl_ask.H>
+
+1623316235 c:\users\dmitry_shu\desktop\fltk_code_blocks\testcode\sheet_metal_cal\lexer.h
+	"Converter.h"
+
+1630583379 c:\users\dmitry_shu\desktop\fltk_code_blocks\testcode\sheet_metal_cal\converter.h
+	<iostream>
+	<sstream>
+	<map>
+	<string>
+	<algorithm>
+	<cctype>
+	<cmath>
+	<math.h>
+	<stdio.h>
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_ask.h
+	"Enumerations.H"
+
+1623313183 source:c:\users\dmitry_shu\desktop\fltk_code_blocks\testcode\sheet_metal_cal\converter.cpp
+	"Converter.h"
+
+1630583600 source:c:\users\dmitry_shu\desktop\fltk_code_blocks\testcode\sheet_metal_cal\lexer.cpp
+	"Lexer.h"
+
+1630936385 source:c:\users\dmitry_shu\desktop\fltk_code_blocks\testcode\sheet_metal_cal\main.cpp
+	"MainWindow.h"
+
+1632314741 c:\users\dmitry_shu\desktop\fltk_code_blocks\testcode\sheet_metal_cal\mainwindow.h
+	<FL/Fl.H>
+	<FL/Fl_Window.H>
+	<FL/Fl_Button.H>
+	<FL/Fl_Input.H>
+	<FL/Fl_Output.H>
+	<FL/Fl_Choice.H>
+	<FL/fl_draw.H>
+	<FL/Fl_Text_Display.H>
+	<FL/Fl_Shared_Image.H>
+	<FL/Fl_PNG_Image.H>
+	<FL/Fl_Box.h>
+	"Calculate.h"
+	"Box.h"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_button.h
+	"Fl_Widget.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_input.h
+	"Fl_Input_.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_input_.h
+	"Fl_Widget.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_output.h
+	"Fl_Input.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_choice.h
+	"Fl_Menu_.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_menu_.h
+	"Fl_Widget.H"
+	"Fl_Menu_Item.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_menu_item.h
+	"Fl_Widget.H"
+	"Fl_Image.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_text_display.h
+	"fl_draw.H"
+	"Fl_Group.H"
+	"Fl_Widget.H"
+	"Fl_Scrollbar.H"
+	"Fl_Text_Buffer.H"
+	<FL/FL_Text_Display.H>
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_scrollbar.h
+	"Fl_Slider.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_slider.h
+	"Fl_Valuator.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_valuator.h
+	"Fl_Widget.H"
+
+1551602423 c:\users\dmitry_shu\desktop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_text_buffer.h
+	<assert.h>
+	"Fl_Export.H"
+
+1632314543 source:c:\users\dmitry_shu\desktop\fltk_code_blocks\testcode\sheet_metal_cal\mainwindow.cpp
+	"MainWindow.h"
+

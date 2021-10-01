@@ -47,3 +47,13 @@ picture <br/>
 __________________________________________________________________________________________________________________________________________
 <img src="graphic/grimg.jpg">
 the graph y=pow(x) can change the value when you press the up or down buttons <br/>
+__________________________________________________________________________________________________________________________________________
+<img src="Line Intersections/pic1.jpg">
+Line–line intersection. The red dot represents the point at which the two lines intersect. <br/>
+__________________________________________________________________________________________________________________________________________
+<img src="sheet_metal_cal/pic1.jpg">
+Sheetmetal Flat length Calculation used for Bending. <br/>
+__________________________________________________________________________________________________________________________________________
+<img src="sierpinski/pic1.jpg">
+The Sierpinski triangle is a fractal attractive fixed set with the overall shape of an equilateral triangle, subdivided recursively into 
+smaller equilateral triangles. <br/>
