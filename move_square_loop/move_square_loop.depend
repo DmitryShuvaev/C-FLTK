@@ -1,0 +1,165 @@
+# depslib dependency file v1.0
+1674591974 source:i:\desctop\fltk_code_blocks\testcode\move_square_loop\main.cpp
+	"MyApp.h"
+
+1674819706 i:\desctop\fltk_code_blocks\testcode\move_square_loop\myapp.h
+	<FL/Fl.H>
+	<FL/Fl_Window.h>
+	<FL/Fl_Double_Window.H>
+	<FL/fl_draw.H>
+	"Graph.h"
+	"Board_calc.h"
+	"Pieces.h"
+	<iostream>
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\include\fl\fl.h
+	<FL/Fl_Export.H>
+	<FL/Fl_Cairo.H>
+	"fl_utf8.h"
+	"Enumerations.H"
+	<stdio.h>
+	<FL/Fl.H>
+	<FL/Fl_Window.H>
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_export.h
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_cairo.h
+	<FL/Fl_Export.H>
+	<cairo.h>
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_utf8.h
+	"Fl_Export.H"
+	"fl_types.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<locale.h>
+	<ctype.h>
+	<wchar.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<X11/Xlocale.h>
+	<X11/Xlib.h>
+	<locale.h>
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_types.h
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\include\fl\enumerations.h
+	<FL/abi-version.h>
+	"Fl_Export.H"
+	"fl_types.h"
+
+1598456640 i:\desctop\fltk_code_blocks\fltk-1.3.5\include\fl\abi-version.h
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_window.h
+	<windows.h>
+	"Fl_Group.H"
+	"Fl_Bitmap.H"
+	<stdlib.h>
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_group.h
+	"Fl_Widget.H"
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_widget.h
+	"Enumerations.H"
+	<stdint.h>
+	<stddef.h>
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_bitmap.h
+	"Fl_Image.H"
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_image.h
+	"Enumerations.H"
+	<stdlib.h>
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_draw.h
+	<FL/x.H>
+	<FL/Enumerations.H>
+	<FL/Fl_Window.H>
+	<FL/Fl_Device.H>
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\include\fl\x.h
+	"Enumerations.H"
+	"win32.H"
+	"mac.H"
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/Xatom.h>
+	"Fl_Window.H"
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\include\fl\win32.h
+	<windows.h>
+	<FL/Fl_Window.H>
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\include\fl\mac.h
+	<FL/Fl_Widget.H>
+	<ApplicationServices/ApplicationServices.h>
+	"Fl_Window.H"
+	"../src/Fl_Font.H"
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\src\fl_font.h
+	<config.h>
+	"Xutf8.h"
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\src\xutf8.h
+	<X11/X.h>
+	<X11/Xlib.h>
+	<X11/Xlocale.h>
+	<X11/Xutil.h>
+	<FL/Fl_Export.H>
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_device.h
+	<FL/x.H>
+	<FL/Fl_Plugin.H>
+	<FL/Fl_Image.H>
+	<FL/Fl_Bitmap.H>
+	<FL/Fl_Pixmap.H>
+	<FL/Fl_RGB_Image.H>
+	<stdlib.h>
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_plugin.h
+	"Fl_Preferences.H"
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_preferences.h
+	<stdio.h>
+	"Fl_Export.H"
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_pixmap.h
+	"Fl_Image.H"
+	"x.H"
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_rgb_image.h
+	"Fl_Image.H"
+
+1674820741 source:i:\desctop\fltk_code_blocks\testcode\move_square_loop\myapp.cpp
+	"MyApp.h"
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_double_window.h
+	"Fl_Window.H"
+
+1674820286 source:i:\desctop\fltk_code_blocks\testcode\move_square_loop\board_calc.cpp
+	"Board_calc.h"
+
+1674818550 i:\desctop\fltk_code_blocks\testcode\move_square_loop\board_calc.h
+	<iostream>
+	"Graph.h"
+
+1674836619 i:\desctop\fltk_code_blocks\testcode\move_square_loop\graph.h
+	<FL/Fl.H>
+	<FL/fl_draw.H>
+	<FL/Fl_Image.H>
+
+1673709486 source:i:\desctop\fltk_code_blocks\testcode\move_square_loop\graph.cpp
+	"Graph.h"
+
+1674818750 i:\desctop\fltk_code_blocks\testcode\move_square_loop\pieces.h
+	"Graph.h"
+	"Board_calc.h"
+	<iostream>
+
+1674818604 source:i:\desctop\fltk_code_blocks\testcode\move_square_loop\pieces.cpp
+	"Pieces.h"
+
