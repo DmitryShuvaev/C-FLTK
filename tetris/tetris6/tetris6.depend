@@ -1,0 +1,562 @@
+# depslib dependency file v1.0
+1734097514 source:g:\tetris\tetris6\main.cpp
+	"Window.h"
+
+1734612316 g:\tetris\tetris6\window.h
+	"I_piece.h"
+	"N_piece.h"
+	"T_piece.h"
+
+1734612358 g:\tetris\tetris6\i_piece.h
+	"Graph.h"
+	"Board_calc.h"
+	<iostream>
+
+1734175438 g:\tetris\tetris6\graph.h
+	<FL/Fl.H>
+	<FL/fl_draw.H>
+	<FL/Fl_Double_Window.H>
+
+1551602424 g:\fltk_code_blocks\fltk-1.3.5\include\fl\fl.h
+	<FL/Fl_Export.H>
+	<FL/Fl_Cairo.H>
+	"fl_utf8.h"
+	"Enumerations.H"
+	<stdio.h>
+	<FL/Fl.H>
+	<FL/Fl_Window.H>
+
+1551602424 g:\fltk_code_blocks\fltk-1.3.5\include\fl\fl_export.h
+
+1551602424 g:\fltk_code_blocks\fltk-1.3.5\include\fl\fl_cairo.h
+	<FL/Fl_Export.H>
+	<cairo.h>
+
+1551602424 g:\fltk_code_blocks\fltk-1.3.5\include\fl\fl_utf8.h
+	"Fl_Export.H"
+	"fl_types.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<locale.h>
+	<ctype.h>
+	<wchar.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<X11/Xlocale.h>
+	<X11/Xlib.h>
+	<locale.h>
+
+1551602424 g:\fltk_code_blocks\fltk-1.3.5\include\fl\fl_types.h
+
+1551602424 g:\fltk_code_blocks\fltk-1.3.5\include\fl\enumerations.h
+	<FL/abi-version.h>
+	"Fl_Export.H"
+	"fl_types.h"
+
+1598456642 g:\fltk_code_blocks\fltk-1.3.5\include\fl\abi-version.h
+
+1551602424 g:\fltk_code_blocks\fltk-1.3.5\include\fl\fl_window.h
+	<windows.h>
+	"Fl_Group.H"
+	"Fl_Bitmap.H"
+	<stdlib.h>
+
+1551602424 g:\fltk_code_blocks\fltk-1.3.5\include\fl\fl_group.h
+	"Fl_Widget.H"
+
+1551602424 g:\fltk_code_blocks\fltk-1.3.5\include\fl\fl_widget.h
+	"Enumerations.H"
+	<stdint.h>
+	<stddef.h>
+
+1551602424 g:\fltk_code_blocks\fltk-1.3.5\include\fl\fl_bitmap.h
+	"Fl_Image.H"
+
+1551602424 g:\fltk_code_blocks\fltk-1.3.5\include\fl\fl_image.h
+	"Enumerations.H"
+	<stdlib.h>
+
+1551602424 g:\fltk_code_blocks\fltk-1.3.5\include\fl\fl_draw.h
+	<FL/x.H>
+	<FL/Enumerations.H>
+	<FL/Fl_Window.H>
+	<FL/Fl_Device.H>
+
+1551602424 g:\fltk_code_blocks\fltk-1.3.5\include\fl\x.h
+	"Enumerations.H"
+	"win32.H"
+	"mac.H"
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/Xatom.h>
+	"Fl_Window.H"
+
+1551602424 g:\fltk_code_blocks\fltk-1.3.5\include\fl\win32.h
+	<windows.h>
+	<FL/Fl_Window.H>
+
+1551602424 g:\fltk_code_blocks\fltk-1.3.5\include\fl\mac.h
+	<FL/Fl_Widget.H>
+	<ApplicationServices/ApplicationServices.h>
+	"Fl_Window.H"
+	"../src/Fl_Font.H"
+
+1551602424 g:\fltk_code_blocks\fltk-1.3.5\src\fl_font.h
+	<config.h>
+	"Xutf8.h"
+
+1551602424 g:\fltk_code_blocks\fltk-1.3.5\src\xutf8.h
+	<X11/X.h>
+	<X11/Xlib.h>
+	<X11/Xlocale.h>
+	<X11/Xutil.h>
+	<FL/Fl_Export.H>
+
+1551602424 g:\fltk_code_blocks\fltk-1.3.5\include\fl\fl_device.h
+	<FL/x.H>
+	<FL/Fl_Plugin.H>
+	<FL/Fl_Image.H>
+	<FL/Fl_Bitmap.H>
+	<FL/Fl_Pixmap.H>
+	<FL/Fl_RGB_Image.H>
+	<stdlib.h>
+
+1551602424 g:\fltk_code_blocks\fltk-1.3.5\include\fl\fl_plugin.h
+	"Fl_Preferences.H"
+
+1551602424 g:\fltk_code_blocks\fltk-1.3.5\include\fl\fl_preferences.h
+	<stdio.h>
+	"Fl_Export.H"
+
+1551602424 g:\fltk_code_blocks\fltk-1.3.5\include\fl\fl_pixmap.h
+	"Fl_Image.H"
+	"x.H"
+
+1551602424 g:\fltk_code_blocks\fltk-1.3.5\include\fl\fl_rgb_image.h
+	"Fl_Image.H"
+
+1551602424 g:\fltk_code_blocks\fltk-1.3.5\include\fl\fl_double_window.h
+	"Fl_Window.H"
+
+1674818552 g:\tetris\tetris6\board_calc.h
+	<iostream>
+	"Graph.h"
+
+1734521718 source:g:\tetris\tetris6\board_calc.cpp
+	"Board_calc.h"
+
+1734096954 source:g:\tetris\tetris6\graph.cpp
+	"Graph.h"
+
+1734521806 source:g:\tetris\tetris6\i_piece.cpp
+	"I_piece.h"
+
+1734617224 source:g:\tetris\tetris6\window.cpp
+	"Window.h"
+
+1734606916 g:\tetris\tetris6\n_piece.h
+	"Graph.h"
+	"Board_calc.h"
+	<iostream>
+
+1734610168 source:g:\tetris\tetris6\n_piece.cpp
+	"N_piece.h"
+
+1734612242 g:\tetris\tetris6\t_piece.h
+	"Graph.h"
+	"Board_calc.h"
+	<iostream>
+
+1734617136 source:g:\tetris\tetris6\t_piece.cpp
+	"T_piece.h"
+
+1734688166 source:e:\tetris\tetris6\board_calc.cpp
+	"Board_calc.h"
+
+1674818552 e:\tetris\tetris6\board_calc.h
+	<iostream>
+	"Graph.h"
+
+1734175438 e:\tetris\tetris6\graph.h
+	<FL/Fl.H>
+	<FL/fl_draw.H>
+	<FL/Fl_Double_Window.H>
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl.h
+	<FL/Fl_Export.H>
+	<FL/Fl_Cairo.H>
+	"fl_utf8.h"
+	"Enumerations.H"
+	<stdio.h>
+	<FL/Fl.H>
+	<FL/Fl_Window.H>
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_export.h
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_cairo.h
+	<FL/Fl_Export.H>
+	<cairo.h>
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_utf8.h
+	"Fl_Export.H"
+	"fl_types.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<locale.h>
+	<ctype.h>
+	<wchar.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<X11/Xlocale.h>
+	<X11/Xlib.h>
+	<locale.h>
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_types.h
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\enumerations.h
+	<FL/abi-version.h>
+	"Fl_Export.H"
+	"fl_types.h"
+
+1598456642 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\abi-version.h
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_window.h
+	<windows.h>
+	"Fl_Group.H"
+	"Fl_Bitmap.H"
+	<stdlib.h>
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_group.h
+	"Fl_Widget.H"
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_widget.h
+	"Enumerations.H"
+	<stdint.h>
+	<stddef.h>
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_bitmap.h
+	"Fl_Image.H"
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_image.h
+	"Enumerations.H"
+	<stdlib.h>
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_draw.h
+	<FL/x.H>
+	<FL/Enumerations.H>
+	<FL/Fl_Window.H>
+	<FL/Fl_Device.H>
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\x.h
+	"Enumerations.H"
+	"win32.H"
+	"mac.H"
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/Xatom.h>
+	"Fl_Window.H"
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\win32.h
+	<windows.h>
+	<FL/Fl_Window.H>
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\mac.h
+	<FL/Fl_Widget.H>
+	<ApplicationServices/ApplicationServices.h>
+	"Fl_Window.H"
+	"../src/Fl_Font.H"
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\src\fl_font.h
+	<config.h>
+	"Xutf8.h"
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\src\xutf8.h
+	<X11/X.h>
+	<X11/Xlib.h>
+	<X11/Xlocale.h>
+	<X11/Xutil.h>
+	<FL/Fl_Export.H>
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_device.h
+	<FL/x.H>
+	<FL/Fl_Plugin.H>
+	<FL/Fl_Image.H>
+	<FL/Fl_Bitmap.H>
+	<FL/Fl_Pixmap.H>
+	<FL/Fl_RGB_Image.H>
+	<stdlib.h>
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_plugin.h
+	"Fl_Preferences.H"
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_preferences.h
+	<stdio.h>
+	"Fl_Export.H"
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_pixmap.h
+	"Fl_Image.H"
+	"x.H"
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_rgb_image.h
+	"Fl_Image.H"
+
+1551602424 c:\users\Кудрявцев\desktop\maya_plan\fltk_code_blocks\fltk-1.3.5\include\fl\fl_double_window.h
+	"Fl_Window.H"
+
+1734096954 source:e:\tetris\tetris6\graph.cpp
+	"Graph.h"
+
+1734521806 source:e:\tetris\tetris6\i_piece.cpp
+	"I_piece.h"
+
+1734612358 e:\tetris\tetris6\i_piece.h
+	"Graph.h"
+	"Board_calc.h"
+	<iostream>
+
+1734097514 source:e:\tetris\tetris6\main.cpp
+	"Window.h"
+
+1734692074 e:\tetris\tetris6\window.h
+	"I_piece.h"
+	"N_piece.h"
+	"T_piece.h"
+	"S_piece.h"
+	"L_piece.h"
+
+1734606916 e:\tetris\tetris6\n_piece.h
+	"Graph.h"
+	"Board_calc.h"
+	<iostream>
+
+1734612242 e:\tetris\tetris6\t_piece.h
+	"Graph.h"
+	"Board_calc.h"
+	<iostream>
+
+1734610168 source:e:\tetris\tetris6\n_piece.cpp
+	"N_piece.h"
+
+1734617460 source:e:\tetris\tetris6\t_piece.cpp
+	"T_piece.h"
+
+1734692472 source:e:\tetris\tetris6\window.cpp
+	"Window.h"
+
+1734692074 source:e:\tetris\tetris6\l_piece.cpp
+	"L_piece.h"
+
+1734684932 e:\tetris\tetris6\l_piece.h
+	"Graph.h"
+	"Board_calc.h"
+	<iostream>
+
+1734689208 source:e:\tetris\tetris6\s_piece.cpp
+	"S_piece.h"
+
+1734691550 e:\tetris\tetris6\s_piece.h
+	"Graph.h"
+	"Board_calc.h"
+	<iostream>
+
+1734096954 source:h:\tetris\tetris6\graph.cpp
+	"Graph.h"
+
+1734175438 h:\tetris\tetris6\graph.h
+	<FL/Fl.H>
+	<FL/fl_draw.H>
+	<FL/Fl_Double_Window.H>
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\include\fl\fl.h
+	<FL/Fl_Export.H>
+	<FL/Fl_Cairo.H>
+	"fl_utf8.h"
+	"Enumerations.H"
+	<stdio.h>
+	<FL/Fl.H>
+	<FL/Fl_Window.H>
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_export.h
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_cairo.h
+	<FL/Fl_Export.H>
+	<cairo.h>
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_utf8.h
+	"Fl_Export.H"
+	"fl_types.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<locale.h>
+	<ctype.h>
+	<wchar.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<X11/Xlocale.h>
+	<X11/Xlib.h>
+	<locale.h>
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_types.h
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\include\fl\enumerations.h
+	<FL/abi-version.h>
+	"Fl_Export.H"
+	"fl_types.h"
+
+1598456640 i:\desctop\fltk_code_blocks\fltk-1.3.5\include\fl\abi-version.h
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_window.h
+	<windows.h>
+	"Fl_Group.H"
+	"Fl_Bitmap.H"
+	<stdlib.h>
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_group.h
+	"Fl_Widget.H"
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_widget.h
+	"Enumerations.H"
+	<stdint.h>
+	<stddef.h>
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_bitmap.h
+	"Fl_Image.H"
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_image.h
+	"Enumerations.H"
+	<stdlib.h>
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_draw.h
+	<FL/x.H>
+	<FL/Enumerations.H>
+	<FL/Fl_Window.H>
+	<FL/Fl_Device.H>
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\include\fl\x.h
+	"Enumerations.H"
+	"win32.H"
+	"mac.H"
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/Xatom.h>
+	"Fl_Window.H"
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\include\fl\win32.h
+	<windows.h>
+	<FL/Fl_Window.H>
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\include\fl\mac.h
+	<FL/Fl_Widget.H>
+	<ApplicationServices/ApplicationServices.h>
+	"Fl_Window.H"
+	"../src/Fl_Font.H"
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\src\fl_font.h
+	<config.h>
+	"Xutf8.h"
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\src\xutf8.h
+	<X11/X.h>
+	<X11/Xlib.h>
+	<X11/Xlocale.h>
+	<X11/Xutil.h>
+	<FL/Fl_Export.H>
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_device.h
+	<FL/x.H>
+	<FL/Fl_Plugin.H>
+	<FL/Fl_Image.H>
+	<FL/Fl_Bitmap.H>
+	<FL/Fl_Pixmap.H>
+	<FL/Fl_RGB_Image.H>
+	<stdlib.h>
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_plugin.h
+	"Fl_Preferences.H"
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_preferences.h
+	<stdio.h>
+	"Fl_Export.H"
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_pixmap.h
+	"Fl_Image.H"
+	"x.H"
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_rgb_image.h
+	"Fl_Image.H"
+
+1551602423 i:\desctop\fltk_code_blocks\fltk-1.3.5\include\fl\fl_double_window.h
+	"Fl_Window.H"
+
+1734521806 source:h:\tetris\tetris6\i_piece.cpp
+	"I_piece.h"
+
+1734951252 h:\tetris\tetris6\i_piece.h
+	"Graph.h"
+	"Board_calc.h"
+	<iostream>
+
+1734951252 h:\tetris\tetris6\board_calc.h
+	<iostream>
+	"Graph.h"
+
+1734692074 source:h:\tetris\tetris6\l_piece.cpp
+	"L_piece.h"
+
+1734684932 h:\tetris\tetris6\l_piece.h
+	"Graph.h"
+	"Board_calc.h"
+	<iostream>
+
+1734097514 source:h:\tetris\tetris6\main.cpp
+	"Window.h"
+
+1734692074 h:\tetris\tetris6\window.h
+	"I_piece.h"
+	"N_piece.h"
+	"T_piece.h"
+	"S_piece.h"
+	"L_piece.h"
+
+1734606916 h:\tetris\tetris6\n_piece.h
+	"Graph.h"
+	"Board_calc.h"
+	<iostream>
+
+1734612242 h:\tetris\tetris6\t_piece.h
+	"Graph.h"
+	"Board_calc.h"
+	<iostream>
+
+1734691550 h:\tetris\tetris6\s_piece.h
+	"Graph.h"
+	"Board_calc.h"
+	<iostream>
+
+1734610168 source:h:\tetris\tetris6\n_piece.cpp
+	"N_piece.h"
+
+1734689208 source:h:\tetris\tetris6\s_piece.cpp
+	"S_piece.h"
+
+1734617460 source:h:\tetris\tetris6\t_piece.cpp
+	"T_piece.h"
+
+1734693588 source:h:\tetris\tetris6\window.cpp
+	"Window.h"
+
+1734951250 source:h:\tetris\tetris6\board_calc.cpp
+	"Board_calc.h"
+
