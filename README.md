@@ -57,5 +57,5 @@ ________________________________________________________________________________
 <img src="sierpinski/pic1.jpg">
 The Sierpinski triangle is a fractal attractive fixed set with the overall shape of an equilateral triangle, subdivided recursively into 
 smaller equilateral triangles. <br/>
-<img src="move_square_loop/tetris_img.jpg">
-Tetris not complited<br/>
+<img src="tetris/timg.jpg">
+Tetris 5 shaped pieces<br/>
